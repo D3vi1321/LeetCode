@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/D3vi1321/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/D3vi1321/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/D3vi1321/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
