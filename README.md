@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/D3vi1321/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/D3vi1321/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/D3vi1321/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/D3vi1321/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
