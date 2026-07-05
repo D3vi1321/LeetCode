@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/D3vi1321/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 ## Binary Search
@@ -87,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/D3vi1321/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
