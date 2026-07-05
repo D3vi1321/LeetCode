@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/D3vi1321/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/D3vi1321/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/D3vi1321/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Stack
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/D3vi1321/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/D3vi1321/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D3vi1321/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
 | [0132-palindrome-partitioning-ii](https://github.com/D3vi1321/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/D3vi1321/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Matrix
@@ -114,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/D3vi1321/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
