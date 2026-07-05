@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/D3vi1321/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/D3vi1321/LeetCode/tree/master/0283-move-zeroes) |
+| [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/D3vi1321/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/D3vi1321/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
+| [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/D3vi1321/LeetCode/tree/master/0148-sort-list) |
+| [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/D3vi1321/LeetCode/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
