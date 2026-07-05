@@ -1,14 +1,23 @@
 class Solution {
     public int climbStairs(int n) {
-        //if (n == 0) return 1;  // 1 way (empty sum)
-        if (n == 1) return 1;
-        int a = 1; // ways(0)
-        int b = 1; // ways(1)
-        for (int i = 2; i <= n; i++) {
-            int c = a + b; // ways(n) = ways(n-1) + ways(n-2)
-            a = b;
-            b = c;
-        }
-        return b;
+        HashMap<Integer,Integer> map= new HashMap<>();
+        return climb(0, n, map);
+        
     }
+
+        public static int climb(int currentStair, int targetStair, HashMap<Integer, Integer> map) {
+            if (currentStair == targetStair) return 1;
+            if (currentStair > targetStair) return 0;
+
+            if(map.containsKey(currentStair))
+            {
+                return map.get(currentStair);
+            }
+            int firstStep = climb(currentStair+1, targetStair,map);
+            int secondStep = climb(currentStair+2, targetStair,map);
+           map.put(currentStair, firstStep+secondStep);
+
+           return map.get(currentStair);
+        }
+
 }
