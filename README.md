@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/D3vi1321/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/D3vi1321/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/D3vi1321/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
@@ -28,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/D3vi1321/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/D3vi1321/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
