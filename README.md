@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/D3vi1321/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/D3vi1321/LeetCode/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Merge Sort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/D3vi1321/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
 | ------- |
