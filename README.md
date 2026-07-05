@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/D3vi1321/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/D3vi1321/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/D3vi1321/LeetCode/tree/master/0283-move-zeroes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/D3vi1321/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/D3vi1321/LeetCode/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -106,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/D3vi1321/LeetCode/tree/master/0518-coin-change-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/D3vi1321/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -129,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/D3vi1321/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
