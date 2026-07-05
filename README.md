@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/D3vi1321/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/D3vi1321/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/D3vi1321/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/D3vi1321/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/D3vi1321/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/D3vi1321/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/D3vi1321/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/D3vi1321/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/D3vi1321/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
