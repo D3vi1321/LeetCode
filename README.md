@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/D3vi1321/LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/D3vi1321/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/D3vi1321/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
