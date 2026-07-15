@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/D3vi1321/LeetCode/tree/master/2498-frog-jump-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/D3vi1321/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/D3vi1321/LeetCode/tree/master/0148-sort-list) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/D3vi1321/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/D3vi1321/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/D3vi1321/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/D3vi1321/LeetCode/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/D3vi1321/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 <!---LeetCode Topics End-->
