@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/D3vi1321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D3vi1321/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2498-frog-jump-ii](https://github.com/D3vi1321/LeetCode/tree/master/2498-frog-jump-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/D3vi1321/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/D3vi1321/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2498-frog-jump-ii](https://github.com/D3vi1321/LeetCode/tree/master/2498-frog-jump-ii) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/D3vi1321/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/D3vi1321/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2498-frog-jump-ii](https://github.com/D3vi1321/LeetCode/tree/master/2498-frog-jump-ii) |
 ## Memoization
 |  |
 | ------- |
